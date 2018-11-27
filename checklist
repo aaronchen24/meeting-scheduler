@@ -1,0 +1,8 @@
+- [ ] Create web application using Flask with page routes
+  - [ ] Index
+  - [ ] Results
+- [ ] Create SQL database for users that tracks availability
+- [ ] Create corresponding HTML templates for page routes
+  - [ ] Index: 
+- [ ] Create CSS page
+- [ ] Implement Google Calendar API
