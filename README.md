@@ -3,7 +3,7 @@
 This application allows groups of people to coordinate the best mutual time to meet up. Each member registers an account and store his or her best times to meet up. The website collects all of the data from every member and displays the best times to meet using a gradient color scale. The darker the color, the more people that can meet at that time. When the user hovers over a date, on the side will appear two lists: one with who is available at the time and one with who is not available. Lastly, because a gradient color scheme prevents people with colorblindness from effectively using the application, the best times and dates will explicitly be stated.
 
 Possible additional features:  
-Best/available locations as well
+Best/available locations as well  
 Link to Google Calendar, automatically block out times at which user has events --> then have user deselect other times at which they're busy  
 Email users once time is decided  
 JavaScript to instantly display feedback  
